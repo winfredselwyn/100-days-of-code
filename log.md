@@ -10,3 +10,14 @@
 **Link to work:** [Pomodoro App](http://codepen.io/winfred/pen/dOxrzm?editors=0010)
 
 **Link to FCC project page:** [FCC Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+
+### Day 2: January 2, 2017
+#####
+
+**Today's Progress**: Completed Pomodoro FEND project. 
+
+**Thoughts:** n/a.
+
+**Link to work:** [Pomodoro App](http://codepen.io/winfred/pen/dOxrzm?editors=0010)
+
+**Link to FCC project page:** [FCC Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
