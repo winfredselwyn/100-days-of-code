@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1, 2017
-#####
+### Day 1: January 1, 2017 #####
 
 **Today's Progress**: Completed JS logic and function. 
 
@@ -11,8 +10,7 @@
 
 **Link to FCC project page:** [FCC Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
 
-### Day 2: January 2, 2017
-#####
+### Day 2: January 2, 2017 #####
 
 **Today's Progress**: Completed Pomodoro FEND project. 
 
@@ -21,3 +19,11 @@
 **Link to work:** [Pomodoro App](http://codepen.io/winfred/pen/dOxrzm?editors=0010)
 
 **Link to FCC project page:** [FCC Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+
+### Day 3: January 3, 2017 #####
+
+**Today's Progress**: Begun web scraper project with Rails/JS.
+
+**Thoughts:** Intend to plan projects from > 7th day.
+
+**Link to work:** [Web Scraper](https://github.com/winfredselwyn/scraper)
