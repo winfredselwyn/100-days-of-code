@@ -27,3 +27,12 @@
 **Thoughts:** Intend to plan projects from > 7th day.
 
 **Link to work:** [Web Scraper](https://github.com/winfredselwyn/scraper)
+
+
+### Day 4: January 4, 2017 #####
+
+**Today's Progress**: Created first commit of side project. Completed JS Calculator UI.
+
+**Thoughts:** Scrapped the previous day's project. More time wasted on non-starters - how to manage this?
+
+**Link to work:** [JS Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
