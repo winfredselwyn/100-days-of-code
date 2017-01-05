@@ -36,3 +36,12 @@
 **Thoughts:** Scrapped the previous day's project. More time wasted on non-starters - how to manage this?
 
 **Link to work:** [JS Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+
+
+### Day 5: January 5, 2017 #####
+
+**Today's Progress**: Completed JS Calculator.
+
+**Thoughts:** The feeling of accomplishment is palpable. Looking forward to tomorrow.
+
+**Link to work:** [JS Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
