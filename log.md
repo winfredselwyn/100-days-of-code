@@ -45,3 +45,10 @@
 **Thoughts:** The feeling of accomplishment is palpable. Looking forward to tomorrow.
 
 **Link to work:** [JS Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+
+### Day 6: January 6, 2017 #####
+
+**Today's Progress**: Completed Steamroller and Binary Agents on FCC.
+
+**Thoughts:** Continuing work on personal side project. Will update log later
+
