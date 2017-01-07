@@ -52,3 +52,9 @@
 
 **Thoughts:** Continuing work on personal side project. Will update log later
 
+### Day 7: January 7, 2017 #####
+
+**Today's Progress**: Refactoring non-profit project(TAI-TATW) from MobX to Redux.
+
+**Thoughts:** None today.
+
