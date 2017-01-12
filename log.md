@@ -68,8 +68,30 @@
 **Thoughts:** None today.
 
 
-### Day 8: January 8, 2017 #####
+### Day 9: January 8, 2017 #####
 
 **Today's Progress**: Refactored the UI for (TAI-TATW). 
 
 **Thoughts:** Frustrating progress - library conflict. Switched to Exponent.
+
+
+### Day 10: January 10, 2017 #####
+
+**Today's Progress**: Used Redux for a tiny weather app.
+
+**Thoughts:** None. It was a practice session.
+
+
+### Day 11: January 11, 2017 #####
+
+**Today's Progress**: Used Redux for a microblogging app
+
+**Thoughts:** None. It was a practice session.
+
+
+
+### Day 12: January 12, 2017 #####
+
+**Today's Progress**: Tried out [Botpress](https://botpress.io). 
+
+**Thoughts:** Hehehehe.
