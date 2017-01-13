@@ -89,9 +89,14 @@
 **Thoughts:** None. It was a practice session.
 
 
-
 ### Day 12: January 12, 2017 #####
 
 **Today's Progress**: Tried out [Botpress](https://botpress.io). 
 
 **Thoughts:** Hehehehe.
+
+### Day 13: January 13, 2017 #####
+
+**Today's Progress**: Setup Electron for Kwikdo. Moving on to UI prototyping.
+
+**Thoughts:** None.
