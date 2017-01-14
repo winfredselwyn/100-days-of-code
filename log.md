@@ -95,8 +95,15 @@
 
 **Thoughts:** Hehehehe.
 
+
 ### Day 13: January 13, 2017 #####
 
 **Today's Progress**: Setup Electron for Kwikdo. Moving on to UI prototyping.
 
 **Thoughts:** None.
+
+### Day 14: January 14, 2017 ####
+
+**Today's Progress**: Setup Redux for Arctic This Week app.
+
+**Thoughts:** Stephen Grider was right; Redux is easy once you understand it.
