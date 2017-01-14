@@ -102,6 +102,7 @@
 
 **Thoughts:** None.
 
+
 ### Day 14: January 14, 2017 ####
 
 **Today's Progress**: Setup Redux for Arctic This Week app.
