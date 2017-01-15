@@ -108,3 +108,10 @@
 **Today's Progress**: Setup Redux for Arctic This Week app.
 
 **Thoughts:** Stephen Grider was right; Redux is easy once you understand it.
+
+
+### Day 15: January 15, 2017 ####
+
+**Today's Progress**: Setup 'React Native Router Flux' for Arctic This Week app.
+
+**Thoughts:** Code refactoring was messy with unfamiliar constants all over.
