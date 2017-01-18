@@ -10,6 +10,7 @@
 
 **Link to FCC project page:** [FCC Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
 
+
 ### Day 2: January 2, 2017 #####
 
 **Today's Progress**: Completed Pomodoro FEND project. 
@@ -19,6 +20,7 @@
 **Link to work:** [Pomodoro App](http://codepen.io/winfred/pen/dOxrzm?editors=0010)
 
 **Link to FCC project page:** [FCC Project](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+
 
 ### Day 3: January 3, 2017 #####
 
@@ -115,3 +117,19 @@
 **Today's Progress**: Setup 'React Native Router Flux' for Arctic This Week app.
 
 **Thoughts:** Code refactoring was messy with unfamiliar constants all over.
+
+
+### Day 17: January 17, 2017 ###
+
+**Today's Progress**: Begun Machine Learning Specialization on Coursera. COmpleted Wikipedia Viewer (FCC)
+
+**Thoughts:** n/a
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/winfred/pen/ENzQBw)
+
+
+### Day 18: January 18, 2017 ###
+
+**Today's Progress**: TAI Android app code had bugs I couldn't fix (again)
+
+**Thoughts:** Add different branches to git for code
