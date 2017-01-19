@@ -133,3 +133,10 @@
 **Today's Progress**: TAI Android app code had bugs I couldn't fix (again)
 
 **Thoughts:** Add different branches to git for code
+
+
+### Day 19: January 19, 2017 ###
+
+**Today's Progress**: UI almost done for TAI-TATW
+
+**Thoughts:** n/a
