@@ -140,3 +140,10 @@
 **Today's Progress**: UI almost done for TAI-TATW
 
 **Thoughts:** n/a
+
+
+### Day 20: January 20, 2017 ###
+
+**Today's Progress**: Began Twitch TV API project on Codepen
+
+**Thoughts:** n/a
