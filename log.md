@@ -147,3 +147,24 @@
 **Today's Progress**: Began Twitch TV API project on Codepen
 
 **Thoughts:** n/a
+
+
+### Day 21: January 21, 2017 ###
+
+**Today's Progress**: Wrote code for TAI-TATW and ML.
+
+**Thoughts:** n/a
+
+
+### Day 22: January 22, 2017 ###
+
+**Today's Progress**: Conway's Game of Life with Python!
+
+**Thoughts:** n/a
+
+
+### Day 23: January 23, 2017 ###
+
+**Today's Progress**: Completed routing and Redux for TAI-TATW.
+
+**Thoughts:** n/a
